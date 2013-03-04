@@ -1,0 +1,12 @@
+{
+  "name": "minidns",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "reload2": ">=0.1.4",
+    "async": "0.1.x",
+    "native-dns": "0.4.1",
+    "colors": "*",
+    "geoip": "*"
+  }
+}
